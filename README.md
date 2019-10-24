@@ -15,7 +15,7 @@ This repository contains codes of examples in their book and also other examples
 
 
 ### 1.1 Overview of Text and Words 
-This module simply covers basic searching and counting methods on a given text data. 
+This module simply covers applying basic searching and counting methods on any given text data. 
 Follow the steps to help you run files related to this module.
 - ```import nltk```
 - ```nltk.download()```
